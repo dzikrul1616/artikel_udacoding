@@ -1,6 +1,4 @@
-# artikel
-
-A new Flutter project.
+Udacoding artikel
 
 ## Getting Started
 
